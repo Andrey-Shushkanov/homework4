@@ -1,4 +1,4 @@
-my_string = input()
+my_string = input('Введите произвольный набор символов: ')
 print("Длина строки:", len(my_string), " символов")
 print("Строка в верхнем регистре:", my_string.upper())
 print("Строка в нижнем регистре:", my_string.lower())
